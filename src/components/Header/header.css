@@ -1,0 +1,26 @@
+.header {
+    padding: 1rem;
+}
+
+.header__logo {
+    display: flex;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.header__logo span {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.header__logo img {
+    max-width: 40px;
+    margin-right: 1rem;
+    object-fit: contain;
+}
+
+.header__caption {
+    font-size: 1rem;
+    color: var(--grey-300);
+    position: absolute;
+    top: 2.5rem;
+    left: 15rem;
+}

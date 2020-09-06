@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header.tsx should render correctly 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <h1
+      class="header__logo"
+    >
+      <img
+        alt="Github search"
+        src="/images/logo.png"
+      />
+      <span>
+        Github Searcher
+      </span>
+    </h1>
+    <p
+      class="header__caption"
+    >
+      Search users or repositories
+    </p>
+  </header>
+</div>
+`;
